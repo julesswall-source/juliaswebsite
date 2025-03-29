@@ -1,2 +1,2 @@
 # juliaswebsite
-Julia's Website
+This is the home of my personal website hosted on GitHub Pages.
