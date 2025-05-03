@@ -1,6 +1,6 @@
 layout: page
 title: "About Julia"
-permalink: /#about
+permalink: /about
 
 <!DOCTYPE html>
 <html lang="en">
