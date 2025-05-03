@@ -1,0 +1,58 @@
+layout: page
+title: "About Julia"
+permalink: /#about
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     
+<style>
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #333;
+    }
+    
+    li {
+      float: left;
+    }
+    
+    li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    li a:hover:not(.active) {
+      background-color: #463c7d68;
+    }
+    
+    .active {
+      background-color: #ce9ed2;
+    }
+    </style>
+    </head>
+    <body>
+    <ul>
+    	
+      <li><a class="active" href="#home">Home</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#gallery">Gallery</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+    </body>
+</html>
+
+<body>
+    <h1 text-align="center">About Julia</h1>
+</body>
+
+<p>this is my about page</p>
+
+
