@@ -27,6 +27,7 @@ ul {
   }
 
   p {
+    font-family: "Verdana", "Courier New", monospace;
     margin: 50px;
   }
 
@@ -37,4 +38,13 @@ ul {
   h1 {
     font-family: "Lucida Console", "Courier New", monospace;
     font-style: italic
+  }
+
+  h2 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-style: italic
+  }
+
+  table {
+    font-family: "Verdana", "Courier New", monospace;
   }
